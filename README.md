@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lellowgill
-- 👀 I’m interested in dancing, quatum Physics, neuroscience and exercise. 
+- 👀 I’m interested in dancing, quatum Physics, neuroscience, Improving Mental Health and exercise. 
 - 🌱 I’m currently learning Javascript, Python, CSS, HTML and React, Express, Node.js.
 - 💞️ I’m looking to collaborate with other Developers to sharpen my skills. 
 - 📫 How to reach me via email staywright17@gmail.com or slack. 
