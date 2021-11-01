@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lellowgill
-- 👀 I’m interested in dancing and exercise. 
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on Weather_widget
-- 📫 How to reach me via email or slack. 
+- 👀 I’m interested in dancing, quatum Physics, neuroscience and exercise. 
+- 🌱 I’m currently learning Javascript, Python, CSS, HTML and React, Express, Node.js.
+- 💞️ I’m looking to collaborate with other Developers to sharpen my skills. 
+- 📫 How to reach me via email staywright17@gmail.com or slack. 
 
 <!---
 lellowgill/lellowgill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
